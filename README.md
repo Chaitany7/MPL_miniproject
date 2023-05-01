@@ -24,7 +24,7 @@ This is a web application designed for managing a PG accommodation. It provides 
 3. Open XAMPP and start the Apache and MySQL modules
 4. Import the SQL dump file located in the `database` folder into your MySQL database
 5. Copy the contents of the `Login` folder to your web server root directory (e.g. `htdocs` for XAMPP)
-6. Access the web application by opening your browser and navigating to `http://localhost/pg-room-management-system`
+6. Access the web application by opening your browser and navigating to `http://localhost/Login/login.php`
 
 ## Usage
 
